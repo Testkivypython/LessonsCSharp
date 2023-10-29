@@ -1,0 +1,7 @@
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\bin\Debug\LessonsSharp.exe.config
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\bin\Debug\LessonsSharp.exe
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\bin\Debug\LessonsSharp.pdb
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.csproj.AssemblyReference.cache
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.csproj.CoreCompileInputs.cache
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.exe
+C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.pdb
