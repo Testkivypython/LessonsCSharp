@@ -20,13 +20,52 @@ namespace LessonsSharp
     {
         static void Main(string[] args)
         {
-            int a = 5;
+            bool isHighTempureProcessor = false; 
+            bool isHighTempureVideo = false;
 
-            int b = 5;
+            while (true){
+                double tempureProcessor, tempureVideo;
+                string a, b;
 
-            bool result = a == b;
+                Console.WriteLine("Введите температуру процессора (Введите exit для выхода из приложения)");
+                a = Console.ReadLine();
 
-            Console.WriteLine(result);
+                if(a == "exit")
+                {
+                    break;
+                }
+                else
+                {
+                    double.TryParse(a, out tempureProcessor);
+                }
+
+
+                if (tempureProcessor > 105) {
+                    isHighTempureProcessor = true;
+                }
+
+                Console.WriteLine("Введите температуру видеоядра");
+                b = Console.ReadLine();
+
+                if (b == "exit")
+                {
+                    break;
+                }
+                else
+                {
+                    double.TryParse(a, out tempureVideo);
+                }
+
+                if(tempureVideo > 100) {
+                    isHighTempureVideo = true;
+                }
+
+                if (isHighTempureProcessor || isHighTempureVideo)
+                {
+                    Console.WriteLine("Угроза взрыва компьютера!!!");
+                    break;
+                }
+            }
         }
     }
 }

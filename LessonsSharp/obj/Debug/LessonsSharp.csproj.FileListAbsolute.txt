@@ -5,3 +5,10 @@ C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSh
 C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.csproj.CoreCompileInputs.cache
 C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.exe
 C:\Users\Максим\source\repos\LessonsSharp\LessonsSharp\obj\Debug\LessonsSharp.pdb
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\bin\Debug\LessonsSharp.exe.config
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\bin\Debug\LessonsSharp.exe
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\bin\Debug\LessonsSharp.pdb
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\obj\Debug\LessonsSharp.csproj.AssemblyReference.cache
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\obj\Debug\LessonsSharp.csproj.CoreCompileInputs.cache
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\obj\Debug\LessonsSharp.exe
+C:\Users\maxza\source\repos\LessonsCSharp\LessonsSharp\obj\Debug\LessonsSharp.pdb
